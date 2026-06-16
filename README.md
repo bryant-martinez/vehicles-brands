@@ -27,7 +27,7 @@ vehicles-brands/
 └── README.md
 Instalación
 Clona este repositorio:
-git clone https://github.com/tu-usuario/vehicles-brands.git
+git clone https://github.com/bryant-martinez/vehicles-brands.git
 Accede al directorio del proyecto:
 cd vehicles-brands
 Instala las dependencias:
